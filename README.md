@@ -1,0 +1,3 @@
+PROJECT: RECIPES
+
+The goal of this project was to create a simple website that shares a few recipes. The website was constructed using basic html elements such as headings, paragraphs, links, images, unordered lists, and ordered lists. It consists of a home page that links to three recipe pages. Each recipe page has the title of the recipe, a picture of the dish, a description, a list of ingredients, and instructions on how to make the recipe.
